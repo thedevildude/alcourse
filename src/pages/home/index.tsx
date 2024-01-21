@@ -1,5 +1,11 @@
+import CourseList from "./CourseList";
+
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <div>
+      <CourseList />
+    </div>
+  );
 };
 
 export default Home;
