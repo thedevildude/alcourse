@@ -10,7 +10,7 @@ export const samplecourses: SampleCourses = {
     enrollmentStatus: "Open",
     id: 1,
     instructor: "John Doe",
-    location: "Online",
+    location: "Kentucky, USA",
     name: "Introduction to React",
     prerequisites: ["Basic JavaScript knowledge", "Familiarity with React"],
     schedule: "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
@@ -63,6 +63,51 @@ export const samplecourses: SampleCourses = {
         id: 102,
         name: "Bob Smith",
       },
+      {
+        email: "bob@example.com",
+        id: 103,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 104,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 105,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 106,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 107,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 108,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 109,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 110,
+        name: "Bob Smith",
+      },
+      {
+        email: "bob@example.com",
+        id: 111,
+        name: "Bob Smith",
+      },
     ],
     syllabus: [
       {
@@ -83,7 +128,7 @@ export const samplecourses: SampleCourses = {
     description:
       "Learn the basics of React Native development and build your first mobile app.",
     duration: "8 weeks",
-    enrollmentStatus: "Open",
+    enrollmentStatus: "Closed",
     id: 3,
     instructor: "John Doe",
     location: "Online",
@@ -121,7 +166,7 @@ export const samplecourses: SampleCourses = {
     description:
       "Learn the basics of React Native development and build your first mobile app.",
     duration: "8 weeks",
-    enrollmentStatus: "Open",
+    enrollmentStatus: "In Progress",
     id: 4,
     instructor: "John Doe",
     location: "Online",
